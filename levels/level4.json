@@ -1,4 +1,11 @@
-{
+{ 
+  "points": 30,
+  "pointsIce": 1000,
+  "pointsSpider": 1000,
+  "pointsStone": 1000,
+  "pointsBoard": 1000,
+  "pointsAcorn": 1000,
+  "pointsUnspentStep": 3000, 
   "number": 4,
   "row": 8,
   "col": 8,
