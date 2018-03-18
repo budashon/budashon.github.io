@@ -1,5 +1,6 @@
 
-{ "points": 30,
+{ 
+  "points": 30,
   "pointsIce": 1000,
   "pointsSpider": 1000,
   "pointsStone": 1000,
