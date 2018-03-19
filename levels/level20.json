@@ -25,6 +25,6 @@
   ],
   "goals": {
 "acorn": 2,
- "boards":16
+ "board":16
   }
 }
