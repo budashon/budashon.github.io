@@ -1,5 +1,5 @@
 { 
-  "permissionsForTransition": [1, 2, 3, 4, 106, 127, 148, 170, 193, 220] 
+  "permissionsForTransition": [1, 2, 3, 4, 106, 127, 148, 170, 193, 220],
   "points": 30,
   "pointsIce": 1000,
   "pointsSpider": 1000,
